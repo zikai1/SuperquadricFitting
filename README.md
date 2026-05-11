@@ -21,8 +21,9 @@ We provide a holistic method for superquadric fitting including both rigid and d
 ## MATLAB 
 ```
 - Step 1: Download the directory **"matlab_version"**, which contains random superquadric point generation, initialization, and fitting process.
-- Step 2: Start MATLAB and run **"test_main.m"**. This will give you an immediate fitting result for the test point cloud data generated randomly. 
+- Step 2: Start MATLAB and run **"test_main.m"** for rigid superquadric fitting or **"test_main_deform.m"** for deformable sueprquadric fitting. This will give you an immediate fitting result for the test point cloud data generated randomly.
 ```
+
 
 
 ## Contact 
