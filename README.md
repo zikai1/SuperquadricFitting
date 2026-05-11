@@ -2,9 +2,9 @@
   <p align="center">
     <h1 align="center">A Holistic Method for Superquadric Fitting Using Unsupervised Clustering Analysis (TPAMI 2026)</h1>
   </p>
-  <p align="center" style="font-size:16px">
+  <!--<p align="center" style="font-size:16px">
     <a target="_blank" href="https://zikai1.github.io/"><strong>Mingyang Zhao</strong></a>
-  </p>
+  </p>-->
 
 
 ## Background 
