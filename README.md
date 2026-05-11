@@ -1,5 +1,14 @@
 # A Holistic Method for Superquadric Fitting Using Unsupervised Clustering Analysis (TPAMI 2026)
 
+<p align="center">
+  <p align="center">
+    <h1 align="center">A Holistic Method for Superquadric Fitting Using Unsupervised Clustering Analysis (TPAMI 2026)</h1>
+  </p>
+  <p align="center" style="font-size:16px">
+    <a target="_blank" href="https://zikai1.github.io/"><strong>Mingyang Zhao</strong></a>
+  </p>
+
+
 ## Background 
 Fitting geometric primitives to 3D point clouds serves as a critical bridge between low-level scattered data and high-level structural representations of underlying 3D
 shapes. As a powerful modeling primitive, superquadratic surfaces (superquadrics) extend traditional CAD models (e.g., cylinders, spheres) with great flexibility and versatility. These surfaces encompass a rich shape vocabulary, ranging from cuboids, ellipsoids, and octahedra to their intermediate forms (the left panel of the following figure), encoded with only five parameters in canonical form. Additionally, their modeling power can be further expanded via global deformations, such as tapering or bending, enabling the description of more complex geometries that transcend standard primitives (the right panel of the following figure). 
