@@ -1,4 +1,4 @@
-# A Holistic Method for Superquadric Fitting Using Unsupervised Clustering Analysis, TPAMI 2026
+# A Holistic Method for Superquadric Fitting Using Unsupervised Clustering Analysis (TPAMI 2026)
 
 ## Background 
 Fitting geometric primitives to 3D point clouds serves as a critical bridge between low-level scattered data and high-level structural representations of underlying 3D
@@ -33,7 +33,7 @@ If you have any problem, please contact us via <zhaomingyang@amss.ac.cn>. We gre
 
 
 ## Acknowledgement
-We would like to thank and acknowledge referenced codes from [EMS: A probabilistic approach for superquadric recovery]([https://markdown.com.cn](https://github.com/bmlklwx/EMS-superquadric_fitting)).
+We would like to thank and acknowledge referenced codes from [EMS: A probabilistic approach for superquadric recovery](https://github.com/bmlklwx/EMS-superquadric_fitting).
 
 
 <!--
