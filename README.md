@@ -6,7 +6,7 @@ shapes. As a powerful modeling primitive, superquadratic surfaces (superquadrics
 
 **Please give a star and cite if you find this repo useful.**
 
-![](./fig/TPAMI_SQ.png)
+![Fig. 1](./fig/TPAMI_SQ.png)
 
 ## This Work
 
