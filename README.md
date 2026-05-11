@@ -6,7 +6,7 @@ shapes. As a powerful modeling primitive, superquadratic surfaces (superquadrics
 
 **Please give a star and cite if you find this repo useful.**
 
-![](./fig/TPAMI_SQ_Teaser.jpg)
+![](./fig/TPAMI_SQ.png)
 
 ## This Work
 
@@ -25,3 +25,19 @@ We provide a holistic method for superquadric fitting including both rigid and d
 ```
 
 
+## Contact 
+If you have any problem, please contact us via <zhaomingyang@amss.ac.cn>. We greatly appreciate everyone's feedback and insights. Please do not hesitate to get in touch!
+
+<!--
+## Citation
+Please consider citing our work if you find it useful:
+
+```bibtex
+@inproceedings{zhao2026clustereg,
+  title={Correspondence-Free Nonrigid Point Set Registration Using Unsupervised Clustering Analysis},
+  author={Mingyang Zhao, Jingen Jiang, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Yan},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2024}
+}
+```
+-->
