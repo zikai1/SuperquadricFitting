@@ -1,5 +1,3 @@
-# A Holistic Method for Superquadric Fitting Using Unsupervised Clustering Analysis (TPAMI 2026)
-
 <p align="center">
   <p align="center">
     <h1 align="center">A Holistic Method for Superquadric Fitting Using Unsupervised Clustering Analysis (TPAMI 2026)</h1>
