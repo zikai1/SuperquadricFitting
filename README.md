@@ -31,6 +31,11 @@ A Python version is coming soon !
 ## Contact 
 If you have any problem, please contact us via <zhaomingyang@amss.ac.cn>. We greatly appreciate everyone's feedback and insights. Please do not hesitate to get in touch!
 
+
+## Acknowledgement
+We would like to thank and acknowledge referenced codes from [EMS: A probabilistic approach for superquadric recovery]([https://markdown.com.cn](https://github.com/bmlklwx/EMS-superquadric_fitting)).
+
+
 <!--
 ## Citation
 Please consider citing our work if you find it useful:
