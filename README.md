@@ -24,6 +24,8 @@ We provide a holistic method for superquadric fitting including both rigid and d
 - Step 2: Start MATLAB and run **"test_main.m"** for rigid superquadric fitting or **"test_main_deform.m"** for deformable sueprquadric fitting. This will give you an immediate fitting result for the test point cloud data generated randomly.
 ```
 
+### Todo 
+A Python version is coming soon !
 
 
 ## Contact 
