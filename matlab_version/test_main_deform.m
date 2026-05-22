@@ -9,7 +9,7 @@
 close all;
 clear;
 
-addpath(genpath("H:\Code\Fitting\clusterSQ\matlab_version"));
+addpath(genpath(".\matlab_version"));
 
 
 
@@ -49,7 +49,7 @@ if 1
 figure(1)
 showPoints(point, 'Color', 'r')
 hold on
-showSuperquadrics(x_cluster, 'Color', [0 0 1], 'FaceAlpha', 0.7, 'Arclength', 0.05, 'Light', 1);
+showSuperquadrics(x_cluster, 'Taper',1,'Color', [0 0 1], 'FaceAlpha', 0.7, 'Arclength', 0.05, 'Light', 1);
 hold off
 title('ClusterFit Superquadric');
 end
