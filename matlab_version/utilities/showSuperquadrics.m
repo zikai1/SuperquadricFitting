@@ -3,8 +3,6 @@ function [] = showSuperquadrics(x,varargin)
 R = eul2rotm(x(6 : 8));
 t = x(9 : 11);
 
-% with tapering or not
-taper =0;
 color = 'r';
 ViewAxis = [0 0];
 CamRoll = 0;
