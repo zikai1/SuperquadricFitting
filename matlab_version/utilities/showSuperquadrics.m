@@ -4,7 +4,7 @@ R = eul2rotm(x(6 : 8));
 t = x(9 : 11);
 
 % with tapering or not
-taper ='true';
+taper =1;
 color = 'r';
 ViewAxis = [0 0];
 CamRoll = 0;
@@ -45,7 +45,7 @@ for k = 1 : size(varargin, 2)
 end
 
 % validate dimensionality
-if taper == true
+if taper 
     if size(x, 2) ~= 13
         error('Input parameters should have dimension (:, 13) for taperred SQ.')
     end
